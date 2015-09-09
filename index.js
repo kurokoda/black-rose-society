@@ -28,10 +28,10 @@ app.get('/db', function (request, response) {
       { response.render('pages/db', {results: result.rows} ); }
     });
   });
-})
+});
 
 app.get('/about', function (request, response) {
   response.render('pages/about')
-})
+});
 
 
