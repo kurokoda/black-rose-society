@@ -1,5 +1,6 @@
 .jumbotron {
-    background: #532F8C;
+    background-image: url("../dark_embroidery.png");
+    background-repeat: repeat;
     color: white;
     padding-bottom: 80px;
 }
